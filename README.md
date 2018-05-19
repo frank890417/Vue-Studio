@@ -1,6 +1,8 @@
 # vue_studio
+### A Vue.js project experimenting interactive vue component editor
+### Drag / Drop to Inject data into component
 
-> A Vue.js project
+![](https://i.imgur.com/NOu8Exu.png)
 
 ## Build Setup
 
